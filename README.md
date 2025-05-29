@@ -50,7 +50,47 @@ Reduces inspection time and human error.
 
 ![image](https://github.com/user-attachments/assets/724a14d0-8cfa-4185-add5-5527c8e562c1)
 
+# Formulas with Real-Time Applications
 
+ # Here are some key formulas used in UAV operations and line inspection tasks:
 
-
+  # A. UAV Flight Time Estimation
+  
+Flight Time (min)
+=
+Battery Capacity (mAh)
+×
+Voltage (V)
+×
+60
+Power Consumption (W)
+×
+1000
+Flight Time (min)= 
+Power Consumption (W)×1000
+Battery Capacity (mAh)×Voltage (V)×60
+​
  
+🔹 Application: Helps in planning drone missions for long-distance line inspections.
+
+🔹 Example: If a drone has a 6000mAh battery, 14.8V, and consumes 200W:
+
+Flight Time
+=
+6000
+×
+14.8
+×
+60
+200
+×
+1000
+=
+≈
+26.6
+ minutes
+Flight Time= 
+200×1000
+6000×14.8×60
+​
+ =≈26.6 minutes
