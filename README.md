@@ -57,10 +57,13 @@ Reduces inspection time and human error.
   # A. UAV Flight Time Estimation
   
 Flight Time (min) = Battery Capacity (mAh) × Voltage (V) × 60 / Power Consumption (W) × 1000
+
 ​
 🔹 Application: Helps in planning drone missions for long-distance line inspections.
 
+
 🔹 Example: If a drone has a 6000mAh battery, 14.8V, and consumes 200W:
+
 
 Flight Time = 6000 × 14.8 × 60 / 200 × 1000 =≈ 26.6 minutes
 
