@@ -11,77 +11,46 @@ Guided Unmanned Aerial Vehicles (UAVs), also known as drones, are revolutionizin
 # Key Features of Guided UAVs for Line Inspection
 
  #  Autonomous Navigation
+
+Pre-programmed flight paths using GPS/RTK.
+
+Enables precise and repeatable inspections without manual piloting.
+
+![image](https://github.com/user-attachments/assets/6b024817-9cd1-415f-979e-05e20f2b5a5c)
+
+ # Obstacle Avoidance
  
-Uses GPS, GLONASS, or RTK positioning for precise route planning.
+Equipped with sensors (LiDAR, ultrasonic, vision-based) to avoid collisions with power lines, towers, and trees.
 
-Follows pre-programmed flight paths (waypoints).
+![image](https://github.com/user-attachments/assets/91da8186-1629-4b23-ae71-d0c593a2182f)
 
-Reduces human intervention and error.
-
-![image](https://github.com/user-attachments/assets/d4aff903-b765-45af-a010-6c87fbf05780)
-
- # Obstacle Detection and Avoidance
+ # High-Resolution and Thermal Imaging
  
-Equipped with LiDAR, ultrasonic sensors, or stereo vision cameras.
+Captures detailed visual and thermal data.
 
-Detects trees, wires, poles, and other aerial obstacles.
+Detects physical damage, hotspots, and electrical faults.
 
-Enables safe navigation in complex environments
+![image](https://github.com/user-attachments/assets/ddf1935c-2f16-4ce6-a2c8-dcde11425bf2)
 
-![image](https://github.com/user-attachments/assets/bbdc1572-e18d-4d10-bead-bafc183a3ec8)
 
- # High-Resolution Imaging
+ # Real-Time Data Transmission
  
-Carries HD, thermal, infrared, and multispectral cameras.
+Live video feed and telemetry sent to ground stations.
 
-Captures detailed visuals of defects like cracks, corrosion, and hotspots.
+Enables immediate analysis and rapid decision-making.
 
-Supports real-time video streaming to the ground station.
+![image](https://github.com/user-attachments/assets/69d8fa02-4434-4f64-ac34-22539e643b62)
 
- # Data Collection and Transmission
+
+ # AI-Based Fault Detection
  
-Collects telemetry, images, and sensor data during flight.
+Automatically identifies defects using computer vision and machine learning.
 
-Transmits data in real time via 4G/5G or RF link.
+Reduces inspection time and human error.
 
-Enables live monitoring and faster decision-making.
+![image](https://github.com/user-attachments/assets/724a14d0-8cfa-4185-add5-5527c8e562c1)
 
- # AI and Machine Learning Integration
+
+
+
  
-Automated detection of faults using image recognition.
-
-Predictive maintenance using historical inspection data.
-
-Reduces manual analysis and improves inspection accuracy.
-
- # Thermal Imaging and Anomaly Detection
-
-Identifies overheating components and insulation failures.
-
-Especially useful for power line and transformer inspections.
-
- # Long-Range and BVLOS Capabilities
- 
-Capable of Beyond Visual Line of Sight (BVLOS) operations.
-
-Covers long stretches of infrastructure in a single flight.
-
- # Geo-Tagging and Mapping
- 
-Adds GPS coordinates to every captured image or video frame.
-
-Facilitates post-inspection analysis and mapping in GIS systems.
-
-# Weather and Environmental Sensors
-
-Monitors environmental conditions like wind speed, temperature, and humidity.
-
-Ensures safe flight planning and operation.
-
- # Portability and Quick Deployment
- 
-Lightweight and compact drones enable easy transport.
-
-Quick setup reduces downtime during emergency inspections.
-
-![image](https://github.com/user-attachments/assets/cc13cf78-1030-493b-a07e-5d6518c940ad)
