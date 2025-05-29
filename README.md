@@ -65,5 +65,17 @@ Flight Time (min) = Battery Capacity (mAh) × Voltage (V) × 60 / Power Co
 🔹 Example: If a drone has a 6000mAh battery, 14.8V, and consumes 200W:
 
 
-Flight Time = 6000 × 14.8 × 60 / 200 × 1000 =≈ 26.6 minutes
+ Flight Time = 6000 × 14.8 × 60 / 200 × 1000 =≈ 26.6 minutes
+
+  # B. Image Overlap for Line Mapping
+  
+ Overlap = Image Width ×(1−Side Overlap %) / Ground Coverage Width
+​
+🔹 Application: Ensures continuous and complete imaging of power lines
+
+  # C. Thermal Anomaly Detection
+
+  Δ𝑇 =𝑇 defect − 𝑇 ambient
+
+🔹 Application: Used in detecting overheated connectors or damaged insulators using thermal cameras.
 
